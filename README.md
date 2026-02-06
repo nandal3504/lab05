@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Shiven Nandal`
+- **CCID:** `nandal`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+I used, google, youtube and Claude 
 
 ## Verbal Collaboration
 
